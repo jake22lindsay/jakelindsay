@@ -43,7 +43,7 @@ body {
 
 
 #main-text-container {
-    height: 100vh;
+    height: 60vh;
 }
 
 #static-text {
@@ -96,7 +96,7 @@ body {
 .resume-card-content {
     vertical-align: top;
     display: inline-block;
-    max-width: 90%;
+    max-width: 85%;
     border-left: black 1px solid;
     padding-left: 10px;
 }
