@@ -1,7 +1,7 @@
 import { onSnake, expandSnake } from './snake.js'
 import { randomGridPosition } from './grid.js'
 
-let food = {x: 5, y: 7 } // change to initializeFood() once function is implemented
+let food = {x: 5, y: 20 } // change to initializeFood() once function is implemented
 const EXPANSION_RATE = 1
 
 
