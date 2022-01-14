@@ -96,7 +96,7 @@ body {
 .resume-card-content {
     vertical-align: top;
     display: inline-block;
-    max-width: 85%;
+    max-width: 80%;
     border-left: black 1px solid;
     padding-left: 10px;
 }
