@@ -16,6 +16,7 @@ body {
     background: rgba(108, 131, 105, 0.8);
     clip-path: polygon(0 0, 100% 0, 100% 60%, 0 100%);
     padding-top: 2vh;
+    z-index: 70;
 }
 
 #header nav {
