@@ -1,0 +1,34 @@
+To do:
+
+HEADER: no logo, just name, contact info maybe
+
+UPPER: 
+- Main/small text elements: move to center. Take out of main-space? then shift that whole div up?
+- move all
+
+PROJECTS:
+- add projects section... discuss website
+
+RESUME:
+- 
+
+SNAKE:
+- write words function
+- test out smaller scaled snake
+- if snake not moving, stop render
+- only move front and back of snake
+- randomly generate start position
+
+Current:
+- move all text into its own container that will be fixed to the top. Resume will naturally
+    fall below the fold because I'll set the height of the main and small text to be
+    100vh.
+- make it so that the resume pieces slide in from the right and left on-scroll. Once they become visible
+- remove header logo, just "Jake Lindsay" in italics maybe
+- main text will become a sentence with a rotating end... maybe no small text
+
+
+
+
+Change Log:
+- get fucked I'm way begind on this sucker

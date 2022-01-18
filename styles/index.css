@@ -1,0 +1,47 @@
+#launchpad-container {
+    display: block;
+    width: 90vw;
+    margin: 0 auto;
+    border: red 1px dotted;
+}
+
+.launchpad {
+    display: block;
+    height: 25vh;
+    margin: 15px auto;
+    background-color: white;
+    border: 1px blue dotted;
+}
+
+.launchpad-text {
+    width: 70%;
+    height: 100%;
+    display: inline-block;
+    border: green 1px dotted;
+}
+
+.launchpad-text button {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border: none; 
+    
+}
+
+.launchpad-text button p {
+    display: none;
+
+}
+
+.launchpad-text button:hover p{
+    display: inline;
+    
+}
+
+
+
+.launchpad-img {
+    width: 25%;
+    display: inline-block;
+    border: orange 1px dotted;
+}

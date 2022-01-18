@@ -1,0 +1,50 @@
+#resume-container h3 {
+    text-align: center;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin-right: 15px;
+}
+
+.resume-card {
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 5vh auto;
+    padding: 10px;
+    width: 90vw;
+}
+
+.resume-card h3 {
+    display: inline;
+    max-width: 10%;
+    font-size: 150%;
+}
+
+.resume-card li {
+    list-style-type: square;
+    margin-left: 20px;
+    margin-bottom: 3px;
+}
+
+.resume-card-date {
+    display: inline;
+    font-size: 80%;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.resume-card-content {
+    vertical-align: top;
+    display: inline-block;
+    max-width: 80%;
+    border-left: black 1px solid;
+    padding-left: 10px;
+}
+
+.resume-card-content h5 {
+    font-size: 100%;
+    margin-top: 10px;
+    margin-bottom: 3px;
+}
+
+#education-card {
+    font-size: 130%;
+}
