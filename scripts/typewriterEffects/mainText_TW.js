@@ -1,8 +1,8 @@
 let ELEM_ID = "main-text-tw";
 let PHRASES = ["develop the web inclusively.", 
-                "build predictive models in R.", 
-                "design APIs with Express.", 
-                "create interactive dashboards.", 
+                "build predictive models in R.",
+                "design REST APIs with Express.", 
+                "create dashboards with Tableau.", 
                 "write code that does this."];
 let ADD_SPEED = 60;
 let REM_SPEED = 50;
