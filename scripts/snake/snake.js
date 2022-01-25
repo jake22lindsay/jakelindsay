@@ -7,9 +7,12 @@ const snakeBody = [
     { x: 9, y: 13},
     { x: 9, y: 14},
     { x: 9, y: 15},
-    { x: 9, y: 16}
+    { x: 9, y: 16},
+    { x: 9, y: 17 },
+    { x: 9, y: 18 },
+    { x: 9, y: 19 },
 ]
-let newSegments = 12
+let newSegments = 0;
 
 export function update() {
     addSegments()
