@@ -1,5 +1,5 @@
 
-export const GRID_SCALE = 10 // larger it is, the less grid rows and columns there are
+export const GRID_SCALE = 14 // larger it is, the less grid rows and columns there are
 const PROPORTION_OF_PARENT = 0.99
 
 
