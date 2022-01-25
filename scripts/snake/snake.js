@@ -11,6 +11,10 @@ const snakeBody = [
     { x: 9, y: 17 },
     { x: 9, y: 18 },
     { x: 9, y: 19 },
+    { x: 10, y: 19 },
+    { x: 11, y: 19 },
+    { x: 12, y: 19 },
+    { x: 13, y: 19 }
 ]
 let newSegments = 0;
 
