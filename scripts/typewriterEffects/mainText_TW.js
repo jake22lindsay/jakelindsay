@@ -6,7 +6,7 @@ let PHRASES = ["develop the web for inclusion.",
                 "write bugged out code such as this."];
 let ADD_SPEED = 60;
 let REM_SPEED = 50;
-let DELAY_TIME = 1500;
+let DELAY_TIME = 2000;
 
 
 // functionality
