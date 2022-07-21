@@ -55,7 +55,7 @@ const typeWriterCycle = (elemId, phrases, addSpeed, remSpeed, delayTime) => {
         if (i === phrases.length) {
             i = 0;
         }
-    }, 5000);
+    }, 8000);
 }
 
 
