@@ -1,9 +1,9 @@
 let ELEM_ID = "main-text-tw";
-let PHRASES = ["develop the web inclusively.", 
+let PHRASES = ["develop the web for inclusion.", 
                 "build predictive models in R.",
                 "design REST APIs with Express.", 
-                "create dashboards with Tableau.", 
-                "write code that does this."];
+                "create blazing fast React web apps.", 
+                "write bugged out code such as this."];
 let ADD_SPEED = 60;
 let REM_SPEED = 50;
 let DELAY_TIME = 1500;
